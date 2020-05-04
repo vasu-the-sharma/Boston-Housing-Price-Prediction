@@ -3,7 +3,7 @@
 The dataset used in this project comes from the UCI Machine Learning Repository. This data was collected in 1978 and each of the 506 entries represents aggregate information about 14 features of homes from various suburbs located in Boston.
 
 The features can be summarized as follows:
-CRIM: This is the per capita crime rate by town
+CRIM: This is the per capita crime rate by town \t
 ZN: This is the proportion of residential land zoned for lots larger than 25,000 sq.ft.
 INDUS: This is the proportion of non-retail business acres per town.
 CHAS: This is the Charles River dummy variable (this is equal to 1 if tract bounds river; 0 otherwise)
